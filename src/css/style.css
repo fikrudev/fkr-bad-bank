@@ -1,0 +1,22 @@
+body{
+  margin: 20px;
+  background-color: aqua;
+}
+
+button{
+    margin: 10px;
+    outline: none;
+}
+.btn{
+    background-color:skyblue;
+    margin: 10px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    margin: 5px;
+    font-weight: bold;
+    color: black;
+}
