@@ -1,0 +1,18 @@
+.card-header{
+    font-weight: bold;
+    font-size: 20px;
+    color: blue;
+    letter-spacing: 1.2px;
+    
+}
+.card-body{
+    background-color: green;
+}
+.home-card{
+    margin-left: 40px;
+}
+.card-title{
+    font-size: large;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
