@@ -1,0 +1,29 @@
+.login-header{
+    font-weight: bold;
+    font-size: 20px;
+    color: blue;
+    letter-spacing: 1.2px;
+}
+.login-body{
+    background-color:lightskyblue;
+    padding: 20px;
+    margin: 20px;
+}
+.login-header{
+    background-color:skyblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+.lwarnStsMsg ul{
+    background-color:yellow;
+    margin-top: 5px;
+    padding-top: 5px;
+    list-style-type: none;
+    text-align: left;
+}
+.lsuccStsMsg ul{
+    margin-top: 5px;
+    padding-top: 5px;
+    list-style-type: none;
+    text-align: left;
+  }

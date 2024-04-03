@@ -1,0 +1,29 @@
+.withdraw-header{
+    font-weight: bold;
+    font-size: 20px;
+    color: blue;
+    letter-spacing: 1.2px;
+}
+.withdraw-body{
+    background-color:lightskyblue;
+    padding: 20px;
+    margin: 20px;
+}
+.withdraw-header{
+    background-color:navy;
+    padding: 10px;
+    border-radius: 5px;
+}
+.warning-status-msg ul{
+    background-color:yellow;
+    margin-top: 5px;
+    padding-top: 5px;
+    list-style-type: none;
+    text-align: left;
+}
+.success-status-msg ul{
+    margin-top: 5px;
+    padding-top: 5px;
+    list-style-type: none;
+    text-align: left;
+  }

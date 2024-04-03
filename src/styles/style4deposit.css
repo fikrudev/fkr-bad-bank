@@ -1,0 +1,25 @@
+.deposit-header{
+    font-weight: bold;
+    font-size: 20px;
+    color: blue;
+    letter-spacing: 1.2px;
+}
+.deposit-body{
+    background-color:lightskyblue;
+    padding: 20px;
+    margin: 20px;
+}
+.deposit-header{
+    background-color:black;
+    padding: 10px;
+    border-radius: 5px;
+}
+.infoTouser{
+    background-color:yellow;
+}
+.deposit-status-cls ul{
+    margin-top: 5px;
+    padding-top: 5px;
+    list-style-type: none;
+    text-align: left;
+  }
